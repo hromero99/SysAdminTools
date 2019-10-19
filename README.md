@@ -1,2 +1,8 @@
 # SysAdminTools
-Scripts and information using in Youtube Videos for automate sysadmin tasks
+
+Scripts related to sysadmin tasks or networking stuff that I want to implement.
+
+# Languages used:
+
+* Bash
+* Go
